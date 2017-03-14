@@ -1,0 +1,3 @@
+[submodule "qMTLab"]
+	path = qMTLab
+	url = https://github.com/neuropoly/qMRILab.git
