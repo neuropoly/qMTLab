@@ -1,2 +1,3 @@
 # qMTLab has been extended to qMRILab.
-Link to new repo : https://github.com/neuropoly/qMRILab
+This repo contains the original version of qMTLab (as a submodule). 
+Link to qMRILab : https://github.com/neuropoly/qMRILab
